@@ -127,6 +127,7 @@ hr {
     radial-gradient(circle at bottom right, #fff8f0 0%, transparent 45%),
     #fffdfc;
   padding-bottom: 50px;
+  padding-top: 120px !important;
 }
 .home-icon-span {
   background-color: #fceadb;
